@@ -1,0 +1,14 @@
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/bin/Debug/net7.0/Develop03
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/bin/Debug/net7.0/Develop03.deps.json
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/bin/Debug/net7.0/Develop03.runtimeconfig.json
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/bin/Debug/net7.0/Develop03.dll
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/bin/Debug/net7.0/Develop03.pdb
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.AssemblyInfoInputs.cache
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.AssemblyInfo.cs
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.csproj.CoreCompileInputs.cache
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.dll
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/refint/Develop03.dll
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.pdb
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/Develop03.genruntimeconfig.cache
+/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/Debug/net7.0/ref/Develop03.dll
