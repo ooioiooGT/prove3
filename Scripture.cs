@@ -21,6 +21,10 @@ public class Scripture
     public void gcramdom(List<string> _gcScrList){
         
     }
+    public void BTR_WORD()
+    {
+        
+    }
     public void gcDisplay(){
         Console.WriteLine ($"this is your reference {_gcref}");
         Console.WriteLine ($"this is scripture: {_gcScrList[4]}");
