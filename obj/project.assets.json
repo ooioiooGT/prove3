@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/Develop03.csproj",
+      "projectUniqueName": "/Users/gilber/Documents/prove3/Develop03.csproj",
       "projectName": "Develop03",
-      "projectPath": "/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/Develop03.csproj",
+      "projectPath": "/Users/gilber/Documents/prove3/Develop03.csproj",
       "packagesPath": "/Users/gilber/.nuget/packages/",
-      "outputPath": "/Users/gilber/Documents/CSE210/CSE210-GC/prove/Develop03/obj/",
+      "outputPath": "/Users/gilber/Documents/prove3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gilber/.nuget/NuGet/NuGet.Config"

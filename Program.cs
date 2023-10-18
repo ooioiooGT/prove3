@@ -7,6 +7,9 @@ class Program
         Scripture scripture = new Scripture();
         scripture.gcReference();
         scripture.gcScripture();
-        scripture.gcDisplay();
+        scripture.gcRandom();
+        scripture.gcTostring();
+        
     }
+
 }
