@@ -5,6 +5,8 @@ public class Scripture
     private string _gcref ;
     private string _gcscr ; 
     private List<string> _gcScrList; 
+    private static Random ran = new Random(); 
+    private int _index  ;
     public void gcReference(){
         Console.WriteLine("what are the reference");
         _gcref = Console.ReadLine();
@@ -18,16 +20,18 @@ public class Scripture
         _gcScrList = gcScrList;
 
     }
-    public void gcramdom(List<string> _gcScrList){
+    public void gcTostring(){
         
-    }
-    public void BTR_WORD()
-    {
-        
-    }
-    public void gcDisplay(){
         Console.WriteLine ($"this is your reference {_gcref}");
-        Console.WriteLine ($"this is scripture: {_gcScrList[4]}");
+        Console.WriteLine ($"this is scripture: {_gcScrList[_index]}");
+
+    }
+    public void gcRandom(){
+        Random random = new Random();
+        int index = random.Next(_gcScrList.Count);
+        Console.WriteLine ($"the random {index}");
+        _index = index;
+        
     }
     
 }
