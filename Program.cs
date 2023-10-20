@@ -9,5 +9,6 @@ class Program
         scripture.gcScripture();
         scripture.gcRandom();
         scripture.gcTostring();
+        scripture.gcHideWord();
     }
 }
