@@ -1,14 +1,27 @@
 using System;
-
-class Program
+class Program 
 {
     static void Main(string[] args)
     {
-        Scripture scripture = new Scripture();
-        scripture.gcReference();
-        scripture.gcScripture();
-        scripture.gcRandom();
-        scripture.gcTostring();
-        scripture.gcHideWord();
+        string entry;
+        Reference reference = new Reference();
+        Scripture scripture = new Scripture(reference);
+        do{
+            Console.Clear();
+            scripture.display();
+            Console.WriteLine($"\n" + "Press enter to contiune or type quite to finish. ");
+            entry = Console.ReadLine();
+            scripture.hide_word();
+            scripture.hide_word();
+            scripture.hide_word();
+            if (scripture.numbers.Count == 0 ){
+                break;
+            }
+        }
+        while (entry != "quit");
+        Console.Clear();
+        scripture.display();
+
     }
+    
 }
